@@ -1,4 +1,4 @@
-<img src="./github-profile.png" style="height:200px; width:100%;"/>
+<img src="./github-profile.png" style="height:300px; width:100%;"/>
 <h2 style="text-align:center;">
 <img src="./linkedin.png" />
 <img src="./twitter.jpg" style="height:38px" />
@@ -53,3 +53,12 @@ I'm looking for new opportunity</li>
       
 
  </p>
+
+<br><br><br>
+# <img src="./stastics.webp" style="height:30px;"/> Github Stats
+<p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksiyum&show_icons=true&theme=tokyonight)
+
+</p>
