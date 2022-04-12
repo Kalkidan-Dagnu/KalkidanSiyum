@@ -5,11 +5,11 @@
 <img src="./instagram.jpg" style="height:33px" />
 </h2>
 
-<h2 align="center"> 
+<div align="center"> 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ksiyum.KalkidanSiyum)
 
-</p>
+</div>
 
 
 <br>
