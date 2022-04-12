@@ -59,6 +59,18 @@ I'm looking for new opportunity</li>
    <a target="_blank" rel="noopener noreferrer" ><img align="left" alt="Kalkidan Siyum | Angular" width="30px" src="./angular.png"  style="max-width: 100%; margin-right:10px;"></a>
     <a target="_blank" rel="noopener noreferrer" ><img align="left" alt="Kalkidan Siyum | DOCKER" width="30px" src="./dockern.png" data-canonical-src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" style="max-width: 100%; margin-right:10px;"></a>
      <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bbca93bc1b4ae0a595876da7d7c761c6ede3ff6fd19cffbf30b77a7b35947ffd/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d332f3138312f4d7953514c2d3531322e706e67"><img align="left" alt="Kalkidan Siyum | MySQL" width="30px" src="./javascript.png" style="max-width: 100%; margin-right:10px;"></a>
-      
-
  </p>
+<br>
+<br>
+<br>
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksiyum&repo=KalkidanSiyum)](https://github.com/ksiyum/KalkidanSiyum)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksiyum&layout=compact)](https://github.com/ksiyum/KalkidanSiyum)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksiyum&ksiyum.github.io)](https://github.com/ksiyum/KalkidanSiyum)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ksiyum)](https://github.com/ksiyum/KalkidanSiyum)
