@@ -4,8 +4,9 @@
 <img src="./twitter.jpg" style="height:38px" />
 <img src="./instagram.jpg" style="height:40px" />
 </h2>
+<br>
 <h2>Hey there <img src="./wave-hand.gif" style="width:30px;"/> , I am <a>Kalkidan Siyum</a></h2>
-
+<br>
 <p>
 I am a full-stack developer. Currently living in Ethiopia, Addis Ababa, I have a passion for learning and sharing my knowledge with others, and I love solving real-world problems.
 <ul>
@@ -17,12 +18,15 @@ I'm currently learning Node.js</li>
 I'm looking for new opportunity</li>
 </ul>
  </p>
-
  <h2>
+  <br> 
  Languages and Tools
  </h2>
+
+
  <p> 
- <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Biruk Endris | HTML" width="30px" src="./html.png"  style="max-width: 100%; margin-right:10px;"></a>
+
+ <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Kalkidan Siyum | HTML" width="30px" src="./html.png"  style="max-width: 100%; margin-right:10px;"></a>
 
  <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Kalkidan Siyum | CSS" width="30px" src="https://camo.githubusercontent.com/252606e8f8c4639748339394c2039e5053c636e4e35f6379a1ad6e3066907db9/68747470733a2f2f63646e312e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f74797065732f33322f62616467652d6373732d332d3531322e706e67"  style="max-width: 100%; margin-right:10px;"></a>
 
