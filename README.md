@@ -1,11 +1,11 @@
 <img src="./github-profile.png" style="height:300px; width:100%;"/>
-<h2 style="text-align:center;">
+<h2 align="center">
 <img src="./linkedin.png" />
-<img src="./twitter.jpg" style="height:38px" />
-<img src="./instagram.jpg" style="height:40px" />
+<img src="./twitter.jpg" style="height:33px" />
+<img src="./instagram.jpg" style="height:33px" />
 </h2>
 
-<h2 style="text-align:center;"> 
+<h2 align="center"> 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ksiyum.KalkidanSiyum)
 
@@ -57,7 +57,6 @@ I'm looking for new opportunity</li>
 <br><br><br>
 # <img src="./stastics.webp" style="height:30px;"/> Github Stats
 <p>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksiyum&show_icons=true&theme=tokyonight)
 
