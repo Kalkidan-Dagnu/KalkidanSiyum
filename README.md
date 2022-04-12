@@ -61,3 +61,14 @@ I'm looking for new opportunity</li>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksiyum&show_icons=true&theme=tokyonight)
 
 </p>
+
+
+```{r, echo = F, multi.col=T}
+summary(cars)
+plot(speed ~ dist, cars)
+```
+
+```{r, echo = F, multi.col=T}
+summary(cars)
+plot(speed ~ dist, cars)
+plot(mpg ~ hp, mtcars)
