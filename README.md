@@ -4,6 +4,14 @@
 <img src="./twitter.jpg" style="height:38px" />
 <img src="./instagram.jpg" style="height:40px" />
 </h2>
+
+<h2 style="text-align:center;"> 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ksiyum.KalkidanSiyum)
+
+</p>
+
+
 <br>
 <h2>Hey there <img src="./wave-hand.gif" style="width:30px;"/> , I am <a>Kalkidan Siyum</a></h2>
 <br>
