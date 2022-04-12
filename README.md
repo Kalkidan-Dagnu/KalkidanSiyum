@@ -30,16 +30,35 @@ I'm looking for new opportunity</li>
   <br> 
 
 
-<br><br><br>
-
-
-
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-# <img src="./stastics.webp" style="height:30px;"/> Github Stats
+ <img src="./stastics.webp" style="height:30px;"/> Github Stats
 <p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksiyum&show_icons=true&theme=tokyonight)
+
 </p>
- |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">
+<br>
+<img src = "./code.webp" height="30px;" />  L<u>anguages and Tools</u>
+ </h2>
+
+
+ <p> 
+
+ <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Kalkidan Siyum | HTML" width="30px" src="./html.png"  style="max-width: 100%; margin-right:10px;"></a>
+
+ <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Kalkidan Siyum | CSS" width="30px" src="https://camo.githubusercontent.com/252606e8f8c4639748339394c2039e5053c636e4e35f6379a1ad6e3066907db9/68747470733a2f2f63646e312e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f74797065732f33322f62616467652d6373732d332d3531322e706e67"  style="max-width: 100%; margin-right:10px;"></a>
+
+ <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Biruk Endris | HTML" width="30px" src="./jenkins.png" style="max-width: 100%;margin-right:10px;"></a>
+
+ <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Kalkidan Siyum | NGINX" width="30px" src="./nginx.png"  style="max-width: 100%; margin-right:10px;"></a>
+
+ <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Kalkidan Siyum | Java" width="30px" src="./java.png"  style="max-width: 100%; margin-right:10px;"></a>
+ 
+ <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Kalkidan Siyum | MySQL" width="30px" src="https://camo.githubusercontent.com/bbca93bc1b4ae0a595876da7d7c761c6ede3ff6fd19cffbf30b77a7b35947ffd/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d332f3138312f4d7953514c2d3531322e706e67" data-canonical-src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" style="max-width: 100%; margin-right:10px;"></a>
+  <a target="_blank" rel="noopener noreferrer"><img align="left" alt="Kalkidan Siyum | ORACLE" width="30px" src="./oracle.png" style="max-width: 100%; margin-right:10px;"></a>
+
+   <a target="_blank" rel="noopener noreferrer" ><img align="left" alt="Kalkidan Siyum | Angular" width="30px" src="./angular.png"  style="max-width: 100%; margin-right:10px;"></a>
+    <a target="_blank" rel="noopener noreferrer" ><img align="left" alt="Kalkidan Siyum | DOCKER" width="30px" src="./dockern.png" data-canonical-src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" style="max-width: 100%; margin-right:10px;"></a>
+     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bbca93bc1b4ae0a595876da7d7c761c6ede3ff6fd19cffbf30b77a7b35947ffd/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d332f3138312f4d7953514c2d3531322e706e67"><img align="left" alt="Kalkidan Siyum | MySQL" width="30px" src="./javascript.png" style="max-width: 100%; margin-right:10px;"></a>
+      
+
+ </p>
